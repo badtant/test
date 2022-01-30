@@ -1,0 +1,32 @@
+.cleanButtonCompose {
+    color: inherit;
+    background: none;
+    border: 0;
+    padding: 0;
+    line-height: inherit;
+}
+
+.linkButtonCompose {
+    composes: cleanButtonCompose;
+    composes: regularButtonCompose from "./typographyCompose.css";
+    color: inherit;
+    text-decoration: underline;
+}
+
+.regularButtonCompose {
+    composes: cleanButtonCompose;
+    composes: regularButtonCompose from "./typographyCompose.css";
+    color: var(--color_white);
+    background-color: var(--color_cod-gray);
+    padding: 10px 30px;
+    border-radius: 40px;
+}
+
+.smallButtonCompose {
+    composes: cleanButtonCompose;
+    composes: smallButtonCompose from "./typographyCompose.css";
+    color: var(--color_white);
+    background-color: var(--color_cod-gray);
+    padding: 8px 15px;
+    border-radius: 40px;
+}

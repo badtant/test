@@ -1,0 +1,51 @@
+.header1Compose {
+    font-size: var(--font-size-xlarge);
+    font-weight: var(--font-weight-bold);
+}
+
+.header2Compose {
+    font-size: var(--font-size-large);
+    font-weight: var(--font-weight-semibold);
+}
+
+.header3Compose {
+    font-size: var(--font-size-small);
+    font-weight: var(--font-weight-bold);
+    text-transform: uppercase;
+}
+
+.header4Compose {
+    font-size: var(--font-size-medium);
+    font-weight: var(--font-weight-semibold);
+}
+
+.regularBodyCompose {
+    font-size: var(--font-size-medium);
+}
+
+.strongBodyCompose {
+    font-size: var(--font-size-medium);
+    font-weight: var(--font-weight-semibold);
+}
+
+.smallBodyCompose {
+    font-size: var(--font-size-small);
+}
+
+.regularButtonCompose {
+    font-size: var(--font-size-small);
+    font-weight: var(--font-weight-bold);
+    text-transform: uppercase;
+}
+
+.smallButtonCompose {
+    font-size: var(--font-size-xsmall);
+    font-weight: var(--font-weight-bold);
+    text-transform: uppercase;
+}
+
+.labelCompose {
+    font-size: var(--font-size-xsmall);
+    font-weight: var(--font-weight-bold);
+    text-transform: uppercase;
+}

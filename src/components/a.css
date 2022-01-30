@@ -1,0 +1,68 @@
+.typographyCompose_header1Compose__N8CuO {
+    font-size: var(--font-size-xlarge);
+    font-weight: var(--font-weight-bold);
+}.typographyCompose_header2Compose__YVA9S {
+    font-size: var(--font-size-large);
+    font-weight: var(--font-weight-semibold);
+}.typographyCompose_header3Compose__Hfk3L {
+    font-size: var(--font-size-small);
+    font-weight: var(--font-weight-bold);
+    text-transform: uppercase;
+}.typographyCompose_header4Compose__T-znM {
+    font-size: var(--font-size-medium);
+    font-weight: var(--font-weight-semibold);
+}.typographyCompose_regularBodyCompose__nYwwe {
+    font-size: var(--font-size-medium);
+}.typographyCompose_strongBodyCompose__D1DZc {
+    font-size: var(--font-size-medium);
+    font-weight: var(--font-weight-semibold);
+}.typographyCompose_smallBodyCompose__10V58 {
+    font-size: var(--font-size-small);
+}.typographyCompose_regularButtonCompose__oylVY {
+    font-size: var(--font-size-small);
+    font-weight: var(--font-weight-bold);
+    text-transform: uppercase;
+}.typographyCompose_smallButtonCompose__yiqSA {
+    font-size: var(--font-size-xsmall);
+    font-weight: var(--font-weight-bold);
+    text-transform: uppercase;
+}.typographyCompose_labelCompose__1zoFD {
+    font-size: var(--font-size-xsmall);
+    font-weight: var(--font-weight-bold);
+    text-transform: uppercase;
+}.buttons_cleanButtonCompose__JQkLY {
+    color: inherit;
+    background: none;
+    border: 0;
+    padding: 0;
+    line-height: inherit;
+}.buttons_linkButtonCompose__txNcT {
+    color: inherit;
+    text-decoration: underline;
+}.buttons_regularButtonCompose__zcwNT {
+    color: var(--color_white);
+    background-color: var(--color_cod-gray);
+    padding: 10px 30px;
+    border-radius: 40px;
+}.buttons_smallButtonCompose__6NKJY {
+    color: var(--color_white);
+    background-color: var(--color_cod-gray);
+    padding: 8px 15px;
+    border-radius: 40px;
+}
+
+.comp1_wrapper__eXG6n {
+    padding: 0 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 400;
+    background-color: #ffffff;
+    color: #1a1a1a;
+}
+
+.comp1_button__-Y8N- {
+}
+
+.comp1_text__Tax3V {
+}

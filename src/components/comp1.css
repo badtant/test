@@ -1,0 +1,17 @@
+.wrapper {
+    padding: 0 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: var(--font-weight-regular);
+    background-color: var(--color_white);
+    color: var(--color_cod-gray);
+}
+
+.button {
+    composes: smallButtonCompose from "../helpers/css/buttons.css";
+}
+
+.text {
+    composes: smallBodyCompose from "../helpers/css/typographyCompose.css";
+}

@@ -1,0 +1,11 @@
+:root {
+    --font-weight-regular: 400;
+    --font-weight-semibold: 500;
+    --font-weight-bold: 700;
+    --font-size-xsmall: 13px;
+    --font-size-small: 15px;
+    --font-size-medium: 17px;
+    --font-size-large: 20px;
+    --font-size-xlarge: 26px;
+    --font-size-xxlarge: 30px;
+}
